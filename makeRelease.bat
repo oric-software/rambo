@@ -5,7 +5,7 @@ REM Copy from man
 
 SET BINARY=rambo
 
-Set VERSION=0.0.1
+Set VERSION=1.0.0
 
 set PATH_TAR="C:\Program Files (x86)\GnuWin32\bin"
 set PATH_UNZIP="C:\Program Files\7-Zip"
