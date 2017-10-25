@@ -1,3 +1,5 @@
 #! /bin/sh
 
 echo stub
+echo rambo     1.0.0  Rambo music demo   > src\ipkg\rambo.csv
+
